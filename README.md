@@ -23,7 +23,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moe-Zbeeb&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamadbazzy&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Moe-Zbeeb&theme=tokyonight&hide_border=true" />
 </p>
 
