@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mohamad!
 
-🎓 I'm a third-year Computer Science and Engineering student at the **American University of Beirut (AUB)**.
+🎓 I'm a Senior Computer Science and Engineering student at the **American University of Beirut (AUB)**.
 
 🧠 Currently doing my research internship at **The University of British Columbia** — diving into **Active Learning for LLMs** using **RLHF**.
 
